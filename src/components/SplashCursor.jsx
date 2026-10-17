@@ -1,4 +1,10 @@
 'use client';
+/*!
+ * SplashCursor from React Bits — https://reactbits.dev
+ * Copyright (c) 2026 David Haz. MIT + Commons Clause License.
+ * Based on WebGL Fluid Simulation, Copyright (c) 2017 Pavel Dobryakov, MIT License.
+ * Full license texts: https://auer.page/THIRD_PARTY_LICENSES.txt
+ */
 
 import { useEffect, useRef, useState } from 'react';
 import './SplashCursor.css';

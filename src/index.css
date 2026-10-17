@@ -95,3 +95,14 @@ html, body {
 .card__text { color: var(--muted); font-size: 0.95rem; }
 .card__arrow { color: var(--muted); font-size: 1.25rem; transition: transform 0.2s; }
 .card:hover .card__arrow { transform: translateX(4px); color: var(--fg); }
+
+.credits {
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+.credits a {
+  pointer-events: auto;
+  color: inherit;
+}

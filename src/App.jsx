@@ -44,6 +44,12 @@ export default function App() {
             </li>
           ))}
         </ul>
+        <footer className="credits">
+          Hintergrund: <a href="https://reactbits.dev">SplashCursor</a> von David Haz (React Bits), basierend auf{' '}
+          <a href="https://github.com/PavelDoGreat/WebGL-Fluid-Simulation">WebGL Fluid Simulation</a> von Pavel Dobryakov
+          {' · '}
+          <a href="/THIRD_PARTY_LICENSES.txt">Lizenzen</a>
+        </footer>
       </main>
     </>
   );
