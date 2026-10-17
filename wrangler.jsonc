@@ -1,0 +1,6 @@
+{
+  "name": "landingpage",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist" },
+  "routes": [{ "pattern": "auer.page", "custom_domain": true }]
+}
